@@ -5,6 +5,6 @@ I've also used <b>Vue Routes</b> to navigate thru different pages.
 
 🌊 1. <b>Inline Editor</b> > Click on the text and when the input pops up try to type something in it. <br>
 🌊 2. <b>Order Form</b> > Click on some of the items in order to purchase it. <br>
-🌊 3. <b>earch Bar</b> > I'm a big <b>Marvel</b> fan so I've decided on this challenge to put some of their movies. Type something on the search field to filter thru their movies.
+🌊 3. <b>Search Bar</b> > I'm a big <b>Marvel</b> fan so I've decided on this challenge to put some of their movies. Type something on the search field to filter thru their movies.
 
 🌊 Check it out here 👉 https://edmonbelchev.github.io/vueChallenges/
